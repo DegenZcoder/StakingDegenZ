@@ -1,0 +1,2 @@
+# StakingDegenZ
+STAKINGSYSTEMV2
